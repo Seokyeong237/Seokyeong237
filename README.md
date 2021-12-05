@@ -2,4 +2,4 @@
 
 👀 I’m interested in Web frontend/backend/fullstack 
 
-🌱 I’m currently learning spring/js/django
+🌱 I’m currently learning React
