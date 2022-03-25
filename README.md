@@ -8,8 +8,6 @@
  📫 How to reach me **purewater71@naver.com**
  <div>
 
-<br>
-
 <div align=center><h1>📚 Languages and Tools</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
