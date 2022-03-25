@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
 - 🌱 I’m currently learning **DataBase, Data Mining**
 
@@ -7,7 +6,8 @@
 
 - 📫 How to reach me **purewater71@naver.com**
 
-<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
+
 <p align="left">
 </p>
 
