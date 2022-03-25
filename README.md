@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
 
 <div align="center">
- 🌱 I’m currently learning **DataBase, Data Mining** 
+  🌱 I’m currently learning **DataBase, Data Mining** 
 
- ✨ I'm interested in **Web Backend/Fullstack, Server Developer**
+  ✨ I'm interested in **Web Backend/Fullstack, Server Developer**
 
- 📫 How to reach me **purewater71@naver.com**
+  📫 How to reach me **purewater71@naver.com**
  <div>
 
 <div align=center><h1>📚 Languages and Tools</h1></div>
