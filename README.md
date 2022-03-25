@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
-<img src="https://img.shields.io/badge/python-9cf?style=flat-square&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-lightgrey?style=flate&logo=Python&logoColor=3776AB"/>
 
 <p align="center">
 </p>
