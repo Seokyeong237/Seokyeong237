@@ -11,6 +11,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
 <img src="https://img.shields.io/badge/Python-lightgrey?style=flate&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-lightgrey?style=flate&logo=C&logoColor=A8B9CC"/>
+
 
 <p align="center">
 </p>
