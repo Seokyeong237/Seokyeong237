@@ -3,14 +3,12 @@
 <div align="center">
  <p>🌱 I’m currently learning **DataBase, Data Mining** </p>
 
-✨ I'm interested in **Web Backend/Fullstack, Server Developer**
+ <p>✨ I'm interested in **Web Backend/Fullstack, Server Developer**</p>
 
-📫 How to reach me **purewater71@naver.com**
+ <p>📫 How to reach me **purewater71@naver.com**</p>
  <div>
 
 <br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
 <div align=center><h1>📚 Languages and Tools</h1></div>
 <div align=center> 
@@ -48,6 +46,6 @@
 </p>
 
 <br>
-  <div align=center><h1>📚 Languages and Tools</h1></div>
+  <div align=center><h1></h1></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokyeong237&show_icons=true&theme=radical)
