@@ -10,11 +10,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
-<img src="https://img.shields.io/badge/Python-lightgrey?style=flate&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C-lightgrey?style=flate&logo=C&logoColor=A8B9CC"/>
-
+<h3 align="left">Languages and Tools:</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -26,8 +25,6 @@
   <br>
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <br>
-  
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   
