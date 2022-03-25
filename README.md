@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
 
+<div align="center">
 🌱 I’m currently learning **DataBase, Data Mining**
 
 ✨ I'm interested in **Web Backend/Fullstack, Server Developer**
 
 📫 How to reach me **purewater71@naver.com**
+ <div>
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
 <div align=center><h1>📚 Languages and Tools</h1></div>
 <div align=center> 
