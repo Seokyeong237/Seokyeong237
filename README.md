@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
 
 <div align="center">
-🌱 I’m currently learning **DataBase, Data Mining**
+ <p>🌱 I’m currently learning **DataBase, Data Mining** </p>
 
 ✨ I'm interested in **Web Backend/Fullstack, Server Developer**
 
@@ -48,5 +48,6 @@
 </p>
 
 <br>
+  <div align=center><h1>📚 Languages and Tools</h1></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokyeong237&show_icons=true&theme=radical)
