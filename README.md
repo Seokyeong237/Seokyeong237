@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **purewater71@naver.com**
 
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
 <p align="left">
