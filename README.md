@@ -2,7 +2,7 @@
 
 <div align="center">
   🌱 I’m currently learning **DataBase, Data Mining** 
-
+  
   ✨ I'm interested in **Web Backend/Fullstack, Server Developer**
 
   📫 How to reach me **purewater71@naver.com**
