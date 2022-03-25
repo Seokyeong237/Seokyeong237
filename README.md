@@ -1,10 +1,4 @@
-👋 Hi, I’m @Seokyeong237 
-
-👀 I’m interested in Web backend/fullstack, Server Developer
-
-🌱 I’m currently learning DataBase, Data Science, Data Mining
-
-<h1 align="center">Hi 👋, I'm Seo-kyeong</h1>
+<h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seokyeong237" alt="seokyeong237" /></a> </p>
 
 - 🌱 I’m currently learning **DataBase, Data Mining**
