@@ -27,7 +27,7 @@
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=white"> 
-  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=linux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
