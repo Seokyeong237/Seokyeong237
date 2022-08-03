@@ -26,8 +26,8 @@
   <br>
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/raspberry pi-FCC624?style=for-the-badge&logo=raspberry pi&logoColor=A22846"> 
-  <img src="https://img.shields.io/badge/arduino-FCC624?style=for-the-badge&logo=linux&logoColor=00979D"> 
+  <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=A22846"> 
+  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=linux&logoColor=00979D"> 
   <br>
   
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -35,7 +35,7 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   <br>
 </div>
 
