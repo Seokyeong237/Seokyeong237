@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
 
 <div align="center">
-  🌱 I’m currently learning <strong>Data Mining</strong><p></p>
+  🌱 I’m currently learning <strong>Server Development</strong><p></p>
   
   ✨ I'm interested in **Web Backend/Fullstack, Server Developer**
 
