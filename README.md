@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
 
 <div align="center">
-  🌱 I’m currently learning <strong>Server Development</strong><p></p>
+  🌱 I’m interested in <strong>Server Development, Web Fullstack</strong><p></p>
   
-  ✨ I'm interested in **Server Developer, Web Fullstack Developer**
+  ✨ I'm growing up to be a **Server Developer**
 
   📫 How to reach me **purewater71@naver.com**
  <div>
