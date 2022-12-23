@@ -3,7 +3,7 @@
 <div align="center">
   🌱 I’m currently learning <strong>Server Development</strong><p></p>
   
-  ✨ I'm interested in **Server Developer, Web Backend/Fullstack**
+  ✨ I'm interested in **Server Developer, Web Fullstack Developer**
 
   📫 How to reach me **purewater71@naver.com**
  <div>
