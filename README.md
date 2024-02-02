@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @Seokyeong237</h1>
 
 <div align="center">
-  🌱 I’m interested in <strong>Backend Development</strong><p></p>
+  🌱 I’m interested in <strong>Backend Engineering</strong><p></p>
   
-  ✨ I'm growing up to be a **Backend Developer**
+  ✨ I'm growing up to be a **Backend Engineer**
 
   📫 How to reach me: **seokyeong71@gmail.com**
  <div>
